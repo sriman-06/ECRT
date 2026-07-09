@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 ECRT (Evidence-Centric Cross-Modal Reasoning with Trust-Aware Gating) is a novel transformer-based framework for multimodal fake news detection. Unlike conventional feature-fusion approaches, ECRT explicitly models the reliability of visual evidence through structured evidence-centric reasoning, trust-aware dynamic gating, and cross-modal consistency learning.
 
@@ -12,19 +12,19 @@ The framework jointly reasons over textual claims, visual evidence, caption-deri
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- 🧠 Evidence-Centric Cross-Modal Reasoning
-- 🔒 Trust-Aware Dynamic Gating
-- 🖼️ Caption-Aligned Evidence Refinement
-- 🔄 Cross-Modal Consistency Regularization
-- 🤖 Transformer-Based Multimodal Fusion
-- 📊 Interpretable Evidence Weighting
-- ⚡ Lightweight & Efficient Architecture
+-  Evidence-Centric Cross-Modal Reasoning
+-  Trust-Aware Dynamic Gating
+-  Caption-Aligned Evidence Refinement
+-  Cross-Modal Consistency Regularization
+-  Transformer-Based Multimodal Fusion
+-  Interpretable Evidence Weighting
+-  Lightweight & Efficient Architecture
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 <p align="center">
   <img src="architecture.png" width="950">
@@ -44,7 +44,7 @@ The ECRT pipeline consists of:
 
 ---
 
-## 📊 Datasets
+##  Datasets
 
 Experiments are conducted on:
 
@@ -59,7 +59,7 @@ Supported Tasks
 
 ---
 
-## 📈 Experimental Results
+## Experimental Results
 
 ECRT demonstrates strong performance across multiple benchmark datasets by introducing explicit evidence reasoning rather than relying solely on feature-level fusion.
 
@@ -73,7 +73,7 @@ Key advantages include:
 
 ---
 
-## 💡 Applications
+##  Applications
 
 - Fake News Detection
 - Multimodal Misinformation Detection
@@ -85,7 +85,7 @@ Key advantages include:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - PyTorch
@@ -97,7 +97,7 @@ Key advantages include:
 
 ---
 
-## 👨‍💻 Authors
+##  Authors
 
 **Meghna Gade**,**Sriman Narayana**
 
@@ -105,7 +105,7 @@ Indian Institute of Information Technology, Design and Manufacturing Jabalpur
 
 ---
 
-## 🎯 Future Work
+##  Future Work
 
 - Video Misinformation Detection
 - Multimodal Retrieval-Augmented Verification
